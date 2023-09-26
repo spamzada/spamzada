@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi meu mel 👋
 
-<!--
-**spamzada/spamzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Renato Auguto 
 
-Here are some ideas to get you started:
+-estou fazendo meu projeto do [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-utilizo esse espaço para miha organização e comparitlhamento de meus projeto desenvolvidos
+
+### CONTATO PESSOAL 📫
+franco.renato@escola.pr.gov.br
+
+![](https://media.tenor.com/7aoWtEmB45EAAAAi/ricardo-milos.gif)
+
