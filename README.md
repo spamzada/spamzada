@@ -11,3 +11,5 @@ franco.renato@escola.pr.gov.br
 
 ![](https://media.tenor.com/7aoWtEmB45EAAAAi/ricardo-milos.gif)
 
+![spider-man-gwen-stacy](https://github.com/spamzada/spamzada/assets/146108681/afe42a99-0b38-4dcf-8ef9-b4335ce8d65d)
+
