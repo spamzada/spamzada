@@ -1,18 +1,14 @@
 ### Oi meu mel 👋
 
-Meu nome é Renato Auguto 
+- Meu nome é Renato Auguto, tenho 15 anos e sou literalmente problemático, louco e não consigo ter nenhum sentimento além de raiva e pena da minha própria pessoa
 
--estou fazendo meu projeto do [Alura](https://www.alura.com.br)
-
--utilizo esse espaço para miha organização e comparitlhamento de meus projeto desenvolvidos
-
-### CONTATO PESSOAL 📫
-franco.renato@escola.pr.gov.br
+- Pq estou fazendo isso? Não sei meu sonho era que o mundo acabasse, eu acho que estou endoidando(as fezes não param) 
 
 
-esse é meu ídolo 👇
+![fight-club](https://github.com/spamzada/spamzada/assets/146108681/8034e287-87c0-484a-9db0-8970d755ac96)
 
-![](https://media.tenor.com/7aoWtEmB45EAAAAi/ricardo-milos.gif)
 
-![spider-man-gwen-stacy](https://github.com/spamzada/spamzada/assets/146108681/afe42a99-0b38-4dcf-8ef9-b4335ce8d65d)
+
+
+
 
